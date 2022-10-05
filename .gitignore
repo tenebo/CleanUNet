@@ -1,3 +1,6 @@
 __pycache__
 dns
 .DS_Store
+results
+dist
+build
